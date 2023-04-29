@@ -1,0 +1,23 @@
+{
+  "name": "klunkerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidenCastillo/klunkerjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AidenCastillo/klunkerjs/issues"
+  },
+  "homepage": "https://github.com/AidenCastillo/klunkerjs#readme"
+}
